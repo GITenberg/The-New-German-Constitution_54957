@@ -1,5 +1,5 @@
 _repo: The-New-German-Constitution_54957
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Beard, Charles A. (Charles Austin)
@@ -12,12 +12,17 @@ contributor:
     agent_name: Gollomb, Joseph
     gutenberg_agent_id: '48121'
     url: http://www.gutenberg.org/2009/agents/48121
+covers:
+- cover_type: archival
+  image_path: 54957-h/images/cover.jpg
 creator:
   author:
     agent_name: Brunet, René
     gutenberg_agent_id: '48120'
     url: http://www.gutenberg.org/2009/agents/48120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54957#The-New-German-Constitution
 gutenberg_issued: '2017-06-21'
 gutenberg_type: Text
 identifiers:
